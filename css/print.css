@@ -94,8 +94,9 @@
 	}
 
 	.Email span:before {
-		content:"graham_daniel_robertson@protonmail.com";
+		content:"graham_daniel_robertson@ \a protonmail.com";
 		position:relative;
+		white-space:pre-wrap;
 		top:-1px;
 	}
 
