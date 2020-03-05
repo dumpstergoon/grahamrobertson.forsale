@@ -10,7 +10,7 @@
 */
 window.brain = new (function Brain(Math) {
 	// Some private variables
-	var EMAIL = 'graham_daniel_robertson@protonmail.com';
+	var EMAIL = 'graham_daniel_robertson@<br />protonmail.com';
 	var GIFS_DIR = 'media/backdrops/';
 	var AVATAR_DIR = 'media/profiles/';
 	var GIF_FILES = [
