@@ -1,3 +1,4 @@
+// @ts-nocheck
 window.website = new (function Website(document, brain, scroller) {
 	var _avatar_timer = null;
 	var _backdrop_timer = null;
